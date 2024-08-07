@@ -14,24 +14,24 @@ global.antitags = false;
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = true;                //make true to enable auto recording
 global.groupevent = true;                //This is the new variable for controlling group event handling.
-global.statusseen = false;                 //make true to view statuses 
+global.statusseen = true;                 //make true to view statuses 
 
 
 global.Owner = [""];
-global.OwnerNumber = [""];
+global.OwnerNumber = ["2349072642884"];
 global.ownertag = [""]; 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "🐦Makino-md-v2";
+global.OwnerName =  "Immanuel King";
+global.BotName = "Emmy-Gold";
 global.packname = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";                             //Do not change.
 global.author = "🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm "; 
 global.SupportGroupLink = "https://chat.whatsapp.com/KEg0G3UUs1G39ikdyfF5Pm"; //Do not change!
-//global.dbase = process.env.DBASE || "";//Mongodb here
+//global.dbase = process.env.DBASE || "mongodb+srv://immanueladebayo302:Xx9KSHbTRbYTZT9W@cluster0.zca9hz8.mongodb.net/";//Mongodb here
 global.AuthorWhatsapp = "https://wa.me/2347080968564"; //Bot creator WhatsApp link,don't change or bot will not work.
 
-global.sessID = process.env.sessID || ``
-global.prefa = ["/"]
+global.sessID = process.env.sessID || `QUEENELISA;;;==QV4xWV2EGcxUmbykXSZFkeiRVTOd2Z01ESLJjTypFVi5mbipUdtVXd6RjdjkFcJdHWOpVSpwd=4882462709432`
+global.prefa = ["+"]
 
 //
 global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
